@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639156692 source:c:\users\sergiyyermak\desktop\cs projects\jacobi method\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
